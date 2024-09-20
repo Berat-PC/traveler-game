@@ -9,3 +9,5 @@ All the cities has to be visited. (BASEL, ZURICH, LUGANO, BERN, ZERMATT, GENEVA)
 Each gift has its own point. The brother will be happy with the true one.
 
 Objective : Our aim is to mention about the biggest cities of Switzerland and their famous places. 
+
+NOTE : Codes will be updated , there are some missing codes to be developed !!
