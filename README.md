@@ -6,4 +6,4 @@ When he goes back to the USA his brother will be happy to get a gift from Switze
 
 Rules :
 All the cities has to be visited. (BASEL, ZURICH, LUGANO, BERN, ZERMATT, GENEVA)
-At least two 
+Each gift has its own point. The brother will be happy with the true one.
