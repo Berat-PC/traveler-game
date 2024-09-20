@@ -6,8 +6,8 @@ Welcome to Geneva !
  Nestled between the Alps and the Jura mountains, Geneva is a cosmopolitan gem known for its stunning natural beauty and global influence. This picturesque city is home to the serene Lake Geneva, where the iconic Jet d’Eau fountain soars into the sky. A hub for diplomacy and international cooperation, it hosts the United Nations and the Red Cross, symbolizing peace and progress. With its charming old town, world-class museums, and a backdrop of snow-capped peaks, Geneva offers a perfect blend of culture, history, and breathtaking landscapes.
   
 
- Zermatt, a charming alpine village nestled at the foot of the iconic Matterhorn, is a paradise for nature lovers and adventure seekers alike. Known for its car-free streets and pristine environment, Zermatt offers world-class skiing, hiking, and mountaineering year-round. The village exudes Swiss charm with its cozy chalets, fine dining, and welcoming atmosphere, while its breathtaking views of snow-covered peaks make it a bucket-list destination. Whether exploring the high-altitude trails or simply soaking in the beauty of the Matterhorn, Zermatt promises an unforgettable experience surrounded by the majestic Swiss Alps.
- 
+Welcome to Basel !
+ ___    _    ___  ___  _    
  | _ )  /_\  / __|| __|| |   
  | _ \ / _ \ \__ \| _| | |__ 
  |___//_/ \_\|___/|___||____|
